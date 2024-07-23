@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color:rgb(32, 31, 31)
+}
+h1 {
+    text-align: center;
+}
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
+.para1, .para2, .para3, .para4 {
+    text-align: justify;
+}

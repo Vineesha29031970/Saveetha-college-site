@@ -1,0 +1,33 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 70px;
+  }
+  
+  .imgchange {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .imgchange img {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+  }
+  
+  .content {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    padding: 10px;
+  }
+  

@@ -1,0 +1,27 @@
+.boxs{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #edecec;
+}
+
+tr:hover {
+    background-color: #b6b6b6;
+    color: white; 
+}

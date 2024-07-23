@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    color: black;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    justify-content: left;
+}
+.li{
+    margin: 10px; 
+}
+.navbar{
+    background-color: rgb(93, 93, 93);
+    width:1460px;
+    height: 80px;
+    display: flex;
+    
+    top: 0; 
+    color: white;
+}
+.footer{
+    background-color: rgb(93, 93, 93);
+    width:1440px;
+    height: 60px;
+    display: flex;
+    bottom: 0; 
+    justify-content: center;
+    padding: 13px;
+    color: white;
+}
